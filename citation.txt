@@ -1,0 +1,6 @@
+@inproceedings{REPO-045,
+    author = "Lu, Bin and Gan, Xiaoying and Zhang, Weinan and Yao, Huaxiu and Fu, Luoyi and Wang, Xinbing",
+    booktitle = "{KDD} '22: The 28th {ACM} SIGKDD Conference on Knowledge Discovery and Data Mining, Washington, DC, USA, August 14--18, 2022",
+    title = "{Spatio-temporal Graph Few-shot Learning with Cross-City Knowledge Transfer}",
+    year = "2022"
+}
